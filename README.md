@@ -1,5 +1,5 @@
 # CSV-TOOLS
-Ensemble d'outils pour le format CSV écrit en Pascal. 
+Ensemble d'outils pour le format CSV écrit en Pascal (Turbo Pascal ou Free Pascal). 
 
 <h2>Liste des fichiers</h2>
 
