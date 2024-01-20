@@ -47,6 +47,10 @@ Voici la liste des différents fichiers proposés dans CSV-TOOLS :
 			<td>Cette commande permet de convertir un fichier .CSV en format JSON.</td>
 		</tr>
 		<tr>
+			<td><b>CSV2MD.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier CSV en une table Markdown (MD).</td>
+		</tr>
+		<tr>
 			<td><b>CSV2PAS.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier CSV en code source Pascal.</td>
 		</tr>
