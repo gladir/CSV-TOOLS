@@ -91,6 +91,10 @@ Voici la liste des différents fichiers proposés dans CSV-TOOLS :
 			<td>Cette commande permet de convertir un fichier .DBF (DBase III) en format CSV.</td>
 		</tr>	
 		<tr>
+			<td><b>MDT.PAS</b></td>
+			<td>Cette commande permet de convertir un fichier CSV ou TSV en une table Markdown.</td>
+		</tr>		
+		<tr>
 			<td><b>SQL2CSV.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier SQL en CSV.</td>
 		</tr>  
